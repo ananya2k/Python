@@ -7,6 +7,6 @@ def fizzbuzz(number):
         return "Buzz"
     return number
 
-
+# Taking input
 num = int(input("Enter a number: "))
 print(fizzbuzz(num))
